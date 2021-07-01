@@ -1,6 +1,6 @@
 ## Memories Front-End
 
-This is the front-end part of the "Memories" app that I built using the full MERN Stack. This was my first MERN Stack application. I used "Material-UI" to manage the CSS front-end components and animations.
+This is the front-end part of the single-page "Memories" app that I built using the full MERN Stack. This was my first MERN Stack application. I used "Material-UI" to manage the CSS front-end components and animations.
 
 It is deployed on Netlify here: https://compassionate-ride-a9771c.netlify.app/
 
